@@ -1,0 +1,19 @@
+{
+    "name": "ramonztro/simple-site-mapper",
+    "type": "library",
+    "description": "SimpleSiteMapper allows you to easily create and edit sitemap.xml files.",
+    "homepage": "https://github.com/ramonztro/simple-site-mapper/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramon Kayo",
+            "email": "contato@ramonkayo.com",
+            "homepage": "http://ramonkayo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ramonztro\\SimpleSiteMapper\\": "src/"
+        }
+    }
+}
