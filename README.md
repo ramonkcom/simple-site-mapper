@@ -81,4 +81,4 @@ IN THE SOFTWARE.*
 
 ### Author
 
-Ramon Kayo - <contato@ramonkayo.com> - <http://twitter.com/ramonztro>
+Ramon Kayo - <contato@ramonk.com>
