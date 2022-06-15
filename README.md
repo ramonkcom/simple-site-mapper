@@ -9,7 +9,7 @@ SimpleSiteMapper allows you to easily create and edit sitemap.xml files.
 Install the latest version with:
 
 ```bash
-$ composer require ramonkcom/simple-site-mapper
+$ composer require ramonztro/simple-site-mapper
 ```
 
 ### Basic Usage
