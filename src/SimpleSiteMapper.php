@@ -5,14 +5,14 @@
 | Copyright (c) 2013-2016, Ramon Kayo                                       |
 +---------------------------------------------------------------------------+
 | Author        : Ramon Kayo                                                |
-| Email         : contato@ramonkayo.com                                     |
+| Email         : contato@ramonk.com                                        |
 | License       : Distributed under the MIT License                         |
-| Full license  : https://github.com/ramonztro/simple-site-mapper           |
+| Full license  : https://github.com/ramonkcom/simple-site-mapper           |
 +---------------------------------------------------------------------------+
 | "Simplicity is the ultimate sophistication." - Leonardo Da Vinci          |
 +---------------------------------------------------------------------------+
 */
-namespace Ramonztro\SimpleSiteMapper;
+namespace RamonK\SimpleSiteMapper;
 
 use \DOMDocument;
 use \DOMXPath;
